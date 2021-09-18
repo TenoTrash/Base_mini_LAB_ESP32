@@ -1,6 +1,6 @@
 /*********
   Marcelo Ferrarotti 2021
-
+  Pulsador GPIO32
   BMP280 por I2C
   OLED SPI
 *********/
